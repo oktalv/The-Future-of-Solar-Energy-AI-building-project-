@@ -11,7 +11,7 @@ Wouldn't it be nice if anyone could just open a web site, or download a smart ph
 1) Cost of implementation of solar panels for your roof is: xxx.xx [$]. 
 2) Years for this implementation to pay off is: xx.x [years].
 
-If companies which sell solar panel had this system, much more people would have been interested in it. You wouldn't have to call their services to come to your house with their flying drones to record your roof and backyard and give you hours-long presentations how you should get those solar panels implemented on your roof. Instead, within just a few minutes you can do the most important part by yourself. Getting the cost of implementation and expected years for that implementation to pay off.
+If companies which sell solar panels had this system, much more people would have been interested in it. You wouldn't have to call their services to come to your house with their flying drones to record your roof and backyard and give you hours-long presentations how you should get those solar panels implemented on your roof. Instead, within just a few minutes you can do the most important part by yourself. Getting the cost of implementation and expected years for that implementation to pay off.
 
 ## Background
 
