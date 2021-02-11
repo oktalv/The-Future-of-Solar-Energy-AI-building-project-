@@ -9,7 +9,8 @@ One of the biggest concerns of the 21st century is the source of energy. As foss
 More and more solar panels are being implemented on roofs all around the world. But they are still quite unpopular. Is it because their efficiency isn't yet on high enough level, or because cost of their implementation is too high, or maybe it is just because it is not presented to customers in the right way. Most likely it is all of the 3 reasons combined together, but this idea tends to improve 3rd part - presentation of solar panels to wider public.
 Wouldn't it be nice if anyone could just open a web site, or download a smart phone app, where a Google earths map appears. The person then just have to find their house in the Google earth, click on their house and following results appear: 
 1) Cost of implementation of solar panels for your roof is: xxx.xx [$]. 
-2) Years for this implementation to pay off is: xx.x [years]. 
+2) Years for this implementation to pay off is: xx.x [years].
+
 If companies which sell solar panel had this system, much more people would have been interested in it. You wouldn't have to call their services to come to your house with their flying drones to record your roof and backyard and give you hours-long presentations how you should get those solar panels implemented on your roof. Instead, within just a few minutes you can do the most important part by yourself. Getting the cost of implementation and expected years for that implementation to pay off.
 
 ## Background
