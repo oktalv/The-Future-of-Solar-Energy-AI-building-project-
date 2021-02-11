@@ -1,6 +1,6 @@
 # Project Title
 
-The future of solar energy
+The future of solar energy //
 Final project for the Building AI course
 
 ## Summary
